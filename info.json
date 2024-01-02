@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9146e5de53b09c4f825652160d19ddd821c5c395",
+    "author": "Rohit Goswami <rog32@hi.is>",
+    "time": "2023-11-03 16:55:21",
+    "files": 2,
+    "merge": false,
+    "message": "MAINT: Silence linter\n"
+  },
+  "repo": "https://github.com/ropensci/fastMatMR",
+  "pkg": "fastMatMR"
+}
