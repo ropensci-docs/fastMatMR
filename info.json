@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "d89ff0a82e7a66015144756865800f4dc48f1f02",
+    "author": "Rohit Goswami <rgoswami@ieee.org>",
+    "time": "2026-03-01T16:40:13Z",
+    "files": 4,
+    "merge": false,
+    "message": "MAINT: Fix CRAN incoming notes for 1.2.7\n\nRemove dead hexb.in URL from README, quote rOpenSci in DESCRIPTION\nto suppress spell-check NOTE, bump version to 1.2.7.\n"
+  },
+  "repo": "https://github.com/ropensci/fastMatMR",
+  "pkg": "fastMatMR",
+  "time": "2026-08-30T07:45:00Z"
+}
